@@ -8,7 +8,7 @@ npm install.
 Got to root directory and run 'npm run dev'
 
 
-Then, open http://localhost:3000 in the browser.
+Then, open http://localhost:3000 in POSTMAN
 
 # Frontend
 React + Semantic-ui-react for form styling
